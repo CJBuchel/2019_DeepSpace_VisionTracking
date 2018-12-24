@@ -1,1 +1,8 @@
-﻿  VisionTracking_VS.vcxproj -> D:\Users\Conno\Desktop\Code\2019_DeepSpace_VisionTracking\VisionTracking_VS\x64\Debug\VisionTracking_VS.exe
+﻿  VisionTracking_VS.cpp
+d:\users\conno\desktop\code\2019_deepspace_visiontracking\visiontracking_vs\visiontracking_vs\visiontracking_vs.cpp(77): error C2679: binary '>': no operator found which takes a right-hand operand of type 'cv::Size' (or there is no acceptable conversion)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\thread(228): note: could be 'bool std::operator >(std::thread::id,std::thread::id) noexcept'
+  c:\opencv\build\include\opencv2\core\mat.inl.hpp(2748): note: or       'bool cv::operator >(const cv::MatConstIterator &,const cv::MatConstIterator &)'
+  c:\opencv\build\include\opencv2\core\mat.hpp(3615): note: or       'cv::MatExpr cv::operator >(double,const cv::Mat &)'
+  c:\opencv\build\include\opencv2\core\mat.hpp(3614): note: or       'cv::MatExpr cv::operator >(const cv::Mat &,double)'
+  c:\opencv\build\include\opencv2\core\mat.hpp(3613): note: or       'cv::MatExpr cv::operator >(const cv::Mat &,const cv::Mat &)'
+  d:\users\conno\desktop\code\2019_deepspace_visiontracking\visiontracking_vs\visiontracking_vs\visiontracking_vs.cpp(77): note: while trying to match the argument list '(cv::Mat, cv::Size)'
