@@ -1,2 +1,0 @@
-﻿  VisionTracking_VS.cpp
-d:\users\conno\desktop\code\frc 2019 programs\2019_deepspace_visiontracking\visiontracking_vs\visiontracking_vs\visiontracking_vs.cpp(6): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
