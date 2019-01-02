@@ -1,0 +1,4 @@
+See file:///D:/Users/Conno/Desktop/Code/2019-DeepSpace-Fork/vision/build/tmp/linkCurtinFrcVisionLinuxtinkerboardDebugExecutable/output.txt for all output for linkCurtinFrcVisionLinuxtinkerboardDebugExecutable.
+linking curtinFrcVision successful.
+
+Finished linkCurtinFrcVisionLinuxtinkerboardDebugExecutable, see full log file:///D:/Users/Conno/Desktop/Code/2019-DeepSpace-Fork/vision/build/tmp/linkCurtinFrcVisionLinuxtinkerboardDebugExecutable/output.txt.

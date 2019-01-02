@@ -1,0 +1,4 @@
+See file:///D:/Users/Conno/Desktop/Code/2019-DeepSpace-Fork/vision/build/tmp/linkCurtinFrcVisionWindowsx86-64DebugExecutable/output.txt for all output for linkCurtinFrcVisionWindowsx86-64DebugExecutable.
+linking curtinFrcVision.exe successful.
+
+Finished linkCurtinFrcVisionWindowsx86-64DebugExecutable, see full log file:///D:/Users/Conno/Desktop/Code/2019-DeepSpace-Fork/vision/build/tmp/linkCurtinFrcVisionWindowsx86-64DebugExecutable/output.txt.

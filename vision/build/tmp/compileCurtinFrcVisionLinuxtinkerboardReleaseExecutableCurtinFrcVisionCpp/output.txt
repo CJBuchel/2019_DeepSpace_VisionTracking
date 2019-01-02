@@ -1,0 +1,4 @@
+See file:///D:/Users/Conno/Desktop/Code/2019-DeepSpace-Fork/vision/build/tmp/compileCurtinFrcVisionLinuxtinkerboardReleaseExecutableCurtinFrcVisionCpp/output.txt for all output for compileCurtinFrcVisionLinuxtinkerboardReleaseExecutableCurtinFrcVisionCpp.
+compiling vision.cpp successful.
+
+Finished compileCurtinFrcVisionLinuxtinkerboardReleaseExecutableCurtinFrcVisionCpp, see full log file:///D:/Users/Conno/Desktop/Code/2019-DeepSpace-Fork/vision/build/tmp/compileCurtinFrcVisionLinuxtinkerboardReleaseExecutableCurtinFrcVisionCpp/output.txt.

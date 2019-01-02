@@ -1,0 +1,5 @@
+See file:///D:/Users/Conno/Desktop/Code/2019-DeepSpace-Fork/vision/build/tmp/compileCurtinFrcVisionWindowsx86-64ReleaseExecutableCurtinFrcVisionCpp/output.txt for all output for compileCurtinFrcVisionWindowsx86-64ReleaseExecutableCurtinFrcVisionCpp.
+compiling vision.cpp successful.
+vision.cpp
+
+Finished compileCurtinFrcVisionWindowsx86-64ReleaseExecutableCurtinFrcVisionCpp, see full log file:///D:/Users/Conno/Desktop/Code/2019-DeepSpace-Fork/vision/build/tmp/compileCurtinFrcVisionWindowsx86-64ReleaseExecutableCurtinFrcVisionCpp/output.txt.

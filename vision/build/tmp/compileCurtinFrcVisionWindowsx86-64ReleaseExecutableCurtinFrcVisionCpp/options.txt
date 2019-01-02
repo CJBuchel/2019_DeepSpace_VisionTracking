@@ -1,0 +1,16 @@
+/TP
+/nologo
+/c
+/EHsc
+/DNOMINMAX
+/Zi
+/FS
+/Zc:inline
+/O2
+/MD
+/ID:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\src\main\include
+/ID:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-headers.zip_ed19d56be47d37c8193b8f0377a9cfe6
+"/IC:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\include"
+"/IC:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um"
+"/IC:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared"
+"/IC:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt"

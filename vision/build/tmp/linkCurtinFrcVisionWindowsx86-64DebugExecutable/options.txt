@@ -1,0 +1,24 @@
+/DEBUG:FULL
+/OUT:D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\exe\curtinFrcVision\windowsx86-64\debug\curtinFrcVision.exe
+/NOLOGO
+"/LIBPATH:C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17134.0\um\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17134.0\ucrt\x64"
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\objs\curtinFrcVision\windowsx86-64\debug\curtinFrcVisionCpp\52e3v9bwz1nbejh67xahh7hvd\vision.obj
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\objs\curtinFrcVision\windowsx86-64\debug\curtinFrcVisionCpp\biznmyfp3z431mmtf5jlwqjsh\main.obj
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_calib3d344d.lib
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_core344d.lib
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_features2d344d.lib
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_flann344d.lib
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_highgui344d.lib
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_imgcodecs344d.lib
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_imgproc344d.lib
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_ml344d.lib
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_objdetect344d.lib
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_photo344d.lib
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_shape344d.lib
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_stitching344d.lib
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_superres344d.lib
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_video344d.lib
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_videoio344d.lib
+D:\Users\Conno\Desktop\Code\2019-DeepSpace-Fork\vision\build\tmp\expandedArchives\opencv-cpp-3.4.4-4-windowsx86-64debug.zip_a8abb2a019c54861e6e4f70f5398888b\windows\x86-64\shared\opencv_videostab344d.lib
